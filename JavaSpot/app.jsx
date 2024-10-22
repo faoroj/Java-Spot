@@ -1,4 +1,4 @@
-import React from 'react'
+import {  Navbar, Discover, Experiences, Footer, Hero, Loyalty, Offerings, SignatureBlends, Welcome } from "../sections/";
 
 const app = () => {
   return (
