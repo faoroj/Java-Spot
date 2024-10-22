@@ -5,20 +5,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#EC8F5E",
-        secondary: "#9FBB73",
-        tertiaryPrimary: "rgba(236, 143, 94, 0.5)",
-        tertiarySecondary: "rgba(159, 187, 115, 0.5)",
-        lightGrey: "#D9D9D9",
-        grey: "#4E4E4E",
-        mediumGrey: "rgba(23, 26, 32, 0.8)",
-        black: "#171A20",
-        white: "#ECECEC",
-        flat: "White",
-        mediumBlack: "#1E1E1E",
+        primary: "#41220E",
+        secondary: "#FFF0E0",
+        lightBrown: "#CDC4B7",
+        lighterBrown: "#776A5E",
+        black: "#221E1E",
       },
       fontFamily: {
         lexend: ["Lexend", "regular"],
+        figtree: ["Figtree", "regular"],
       },
     },
     screens: {
