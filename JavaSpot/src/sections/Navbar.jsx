@@ -4,7 +4,7 @@ import { NavLinks } from '../constants'
 
 const Navbar = () => {
   return (
-    <section className="w-full h-[84px] bg-primary flex justify-between items-center">
+    <section className="w-full h-[84px] absolute z-10 bg-primary flex justify-between items-center">
       <div className="padding-x w-full flex justify-between items-center">
 
         {/* Logo */}
