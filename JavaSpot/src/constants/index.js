@@ -1,4 +1,4 @@
-import { Blend01, Blend02, Blend03, Offering01, Offering02, Offering03 } from "../assets";
+import { Blend01, Blend02, Blend03, Offering01, Offering02, Offering03, Ambiance, Brewing, Exceptional, } from "../assets";
 
 
 
@@ -39,4 +39,24 @@ export const SignatureBlends = [
         image: Exceptional,
         text: "Our dedicated team of baristas and staff are committed to providing exceptional service, ensuring every visit to our café is a memorable and enjoyable experience"
     }
+  ];
+
+  export const NavLinks = [
+    {
+        id: "Navlink01",
+        text: "Home"
+    },
+    {
+        id: "Navlink02",
+        text: "Menu"
+    },
+    {
+        id: "Navlink03",
+        text: "About"
+    },
+    {
+        id: "Navlink04",
+        text: "Contact"
+    },
+    
   ];

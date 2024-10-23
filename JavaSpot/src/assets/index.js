@@ -1,20 +1,20 @@
-import Art01 from "./Art01.png";
-import Art02 from "./Art02.png";
-import Art03 from "./Art03.png";
-import Blend01 from "./Blend01.png";
-import Blend02 from "./Blend02.png";
-import Blend03 from "./Blend03.png";
-import Cozy01 from "./Cozy01.png";
-import Hero from "./Hero.png";
-import Loyaltyprogram from "./Loyaltyprogram.png";
-import Offering01 from "./Offering01.png";
-import Offering02 from "./Offering02.png";
-import Offering03 from "./Offering03.png";
-import Ambiance from "./Ambiance.png";
-import Brewing from "./Brewing.png";
-import Exceptional from "./Exceptional.png";
-import Logo from "./Logo.png";
-import LogoFooter from "./LogoFooter.png";
+import Art01 from "./images/Art01.png";
+import Art02 from "./images/Art02.png";
+import Art03 from "./images/Art03.png";
+import Blend01 from "./images/Blend01.png";
+import Blend02 from "./images/Blend02.png";
+import Blend03 from "./images/Blend03.png";
+import Cozy01 from "./images/Cozy01.png";
+import Hero from "./images/Hero.png";
+import Loyaltyprogram from "./images/Loyaltyprogram.png";
+import Offering01 from "./images/Offering01.png";
+import Offering02 from "./images/Offering02.png";
+import Offering03 from "./images/Offering03.png";
+import Ambiance from "./icons/Ambiance.png";
+import Brewing from "./icons/Brewing.png";
+import Exceptional from "./icons/Exceptional.png";
+import Logo from "./icons/Logo.png";
+import LogoFooter from "./icons/LogoFooter.png";
 
 
 export {
