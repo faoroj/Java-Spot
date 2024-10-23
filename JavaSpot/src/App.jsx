@@ -1,9 +1,9 @@
-import {  Navbar, Discover, Experiences, Footer, Hero, Loyalty, Offerings, SignatureBlends, Welcome } from "../sections/";
+import {  Navbar, Discover, Experiences, Footer, Hero, Loyalty, Offerings, SignatureBlends, Welcome } from "./sections";
 
 const app = () => {
   return (
     <main className="relative">
-      <Navbar />
+      <Navbar/>
 
       <section className="">
          <Hero />

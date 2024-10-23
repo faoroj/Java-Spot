@@ -1,4 +1,4 @@
-import Navbar from "./nav";
+import Navbar from "./Navbar";
 import Discover from "./discover";
 import Experiences from "./experiences";
 import Footer from "./footer";
