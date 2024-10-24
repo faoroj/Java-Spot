@@ -7,6 +7,7 @@ import Loyalty from "./loyalty";
 import Offerings from "./offerings";
 import SignatureBlends from "./signatureblends";
 import Welcome from "./welcome";
+import Preview from "./preview";
 
 
 export {
@@ -19,4 +20,5 @@ export {
   Offerings,
   SignatureBlends,
   Welcome,
+  Preview,
 };

@@ -32,12 +32,14 @@ export const SignatureBlends = [
     {
         id: "Offering02",
         image: Brewing,
-        text: "Discover the art of coffee-making at our café, where we showcase the finest artisanal brewing methods"
+        title: "Artisanal Brewing",
+        content: "Discover the art of coffee-making at our café, where we showcase the finest artisanal brewing methods"
     },
     {
         id: "Offering03",
         image: Exceptional,
-        text: "Our dedicated team of baristas and staff are committed to providing exceptional service, ensuring every visit to our café is a memorable and enjoyable experience"
+        title: "Exceptional Service",
+        content: "Our dedicated team of baristas and staff are committed to providing exceptional service, ensuring every visit to our café is a memorable and enjoyable experience"
     }
   ];
 

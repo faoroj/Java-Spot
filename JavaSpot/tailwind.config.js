@@ -26,6 +26,9 @@ module.exports = {
       lg: "1200px",
       xl: "1700px",
     },
+    backgroundOpacity: {
+      '65': '0.65',
+    },
   },
   plugins: [],
 };

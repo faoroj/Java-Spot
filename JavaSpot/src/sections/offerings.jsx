@@ -1,4 +1,5 @@
 import React from 'react'
+import { SeasonalOfferings } from '../constants'
 
 const offerings = () => {
   return (
@@ -12,8 +13,19 @@ const offerings = () => {
         </p>
       </div>
 
-      
-      
+      <div className="flex flex-row justify-between items-center mt-10">
+      {SeasonalOfferings.map((offering, i) => (
+
+        <div key={i} className="flex flex-col justify-center items-center">
+          <img src={offering.image} alt={offering.id} className="h-[62px] w-[62px]"/>
+          <p className="mt-4 font-figtree text-[20px] text-lighterBrown text-center">{offering.title}</p>
+          <p className="mt-4 font-figtree text-[16px] text-lighterBrown max-w-[300px] text-center">{offering.content}</p>
+        </div>
+
+      ))}
+      </div>
+
+
     </section>
   )
 }

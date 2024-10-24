@@ -15,6 +15,7 @@ import Brewing from "./icons/Brewing.png";
 import Exceptional from "./icons/Exceptional.png";
 import Logo from "./icons/Logo.png";
 import LogoFooter from "./icons/LogoFooter.png";
+import Promovideo from "./video/Promovideo.mp4";
 
 
 export {
@@ -34,5 +35,6 @@ export {
     Brewing,
     Exceptional,
     Logo,
-    LogoFooter
+    LogoFooter,
+    Promovideo
 };

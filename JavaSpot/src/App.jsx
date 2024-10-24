@@ -1,4 +1,4 @@
-import {  Navbar, Discover, Experiences, Footer, Hero, Loyalty, Offerings, SignatureBlends, Welcome } from "./sections";
+import {  Navbar, Discover, Experiences, Footer, Hero, Loyalty, Offerings, SignatureBlends, Welcome, Preview } from "./sections";
 
 const app = () => {
   return (
@@ -15,6 +15,11 @@ const app = () => {
 
       <section className="padding-x padding-y bg-primary">
          <Experiences />
+      </section>
+
+      
+      <section className="">
+         <Preview />
       </section>
 
       <section className="padding-x padding-y bg-secondary">
