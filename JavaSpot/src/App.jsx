@@ -9,24 +9,24 @@ const app = () => {
          <Hero />
       </section>
 
-      <section className="">
+      <section className="padding-x padding-y bg-secondary">
          <SignatureBlends />
-      </section>
+      </section>     
 
-      <section className="">
-         <Discover />
-      </section>
-
-      <section className="">
+      <section className="padding-x padding-y bg-primary">
          <Experiences />
       </section>
 
-      <section className="">
+      <section className="padding-x padding-y bg-secondary">
          <Offerings />
       </section>
 
       <section className="">
          <Welcome />
+      </section>
+
+      <section className="">
+         <Discover />
       </section>
 
       <section className="">
