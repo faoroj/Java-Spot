@@ -1,4 +1,3 @@
-import React from 'react'
 import { BsFillPlayFill, BsPauseFill } from 'react-icons/bs';
 import { Promovideo } from '../assets';
 

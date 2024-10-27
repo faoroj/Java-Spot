@@ -17,7 +17,6 @@ const app = () => {
          <Experiences />
       </section>
 
-      
       <section className="">
          <Preview />
       </section>
