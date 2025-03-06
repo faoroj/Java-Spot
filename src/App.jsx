@@ -12,7 +12,8 @@ const app = () => {
       <section className="padding-x padding-y bg-secondary">
          <SignatureBlends />
       </section>     
-
+      
+      {/*
       <section className="padding-x padding-y bg-primary">
          <Experiences />
       </section>
@@ -39,7 +40,7 @@ const app = () => {
 
       <section className="">
          <Footer />
-      </section>
+      </section> */}
 
     </main>
   )
