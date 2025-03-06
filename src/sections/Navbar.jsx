@@ -1,4 +1,3 @@
-import React from 'react'
 import { Logo } from '../assets'
 import { NavLinks } from '../constants'
 
@@ -14,7 +13,7 @@ const Navbar = () => {
 
         {/* Navigation Links */}
         <div className="">
-          <ul className="list-none flex flex-row space-x-8 text-lightBrown font-figtree text-[16px]">
+          <ul className="list-none flex flex-row space-x-8 text-lightBrown font-figtree text-[16px] cursor-pointer">
             {NavLinks.map((item, index) => (
               <li key={index}>{item.text}</li>
             ))}
