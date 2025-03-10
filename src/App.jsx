@@ -16,6 +16,7 @@ const app = () => {
       <section className="padding-x padding-y bg-primary">
          <Experiences />
       </section>
+
       
       <section className="">
          <Preview />
@@ -24,12 +25,13 @@ const app = () => {
       <section className="padding-x padding-y bg-secondary">
          <Offerings />
       </section>
+
       
       <section className="padding-x padding-y bg-mediumBrown">
          <Welcome />
-      </section>
+      </section>{/*
 
-      {/*
+      
       <section className="">
          <Discover />
       </section>

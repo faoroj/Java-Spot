@@ -1,7 +1,7 @@
 import React from 'react'
 import { Cozy01 } from '../assets'
 
-const welcome = () => {
+const Welcome = () => {
   return (
     <section className='max-container'>
 
@@ -24,4 +24,4 @@ const welcome = () => {
   )
 }
 
-export default welcome
+export default Welcome
