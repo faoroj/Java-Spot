@@ -29,7 +29,7 @@ const preview = () => {
   
         <div className="absolute inset-0 bg-black bg-opacity-65 flex justify-center items-center">
           <div
-            className="flex justify-center items-center w-[100px] h-[100px] rounded-full cursor-pointer border-[1px]"
+            className="flex justify-center items-center xs:w-[100px] xs:h-[100px] w-[70px] h-[70px] rounded-full cursor-pointer border-[1px]"
             onClick={handleVideo}
           >
             {playVideo ? (

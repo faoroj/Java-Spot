@@ -13,23 +13,23 @@ const app = () => {
          <SignatureBlends />
       </section>     
       
-      {/*
       <section className="padding-x padding-y bg-primary">
          <Experiences />
       </section>
-
+      
       <section className="">
          <Preview />
       </section>
-
+      
       <section className="padding-x padding-y bg-secondary">
          <Offerings />
       </section>
-
-      <section className="">
+      
+      <section className="padding-x padding-y bg-mediumBrown">
          <Welcome />
       </section>
 
+      {/*
       <section className="">
          <Discover />
       </section>
