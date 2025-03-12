@@ -29,12 +29,14 @@ const app = () => {
       
       <section className="padding-x padding-y bg-mediumBrown">
          <Welcome />
-      </section>{/*
+      </section>
 
       
-      <section className="">
+      <section className="padding-x padding-y bg-secondary">
          <Discover />
       </section>
+      
+      {/*
 
       <section className="">
          <Loyalty />
