@@ -32,11 +32,7 @@ const preview = () => {
             className="flex justify-center items-center xs:w-[100px] xs:h-[100px] w-[70px] h-[70px] rounded-full cursor-pointer border-[1px]"
             onClick={handleVideo}
           >
-            {playVideo ? (
-              <BsPauseFill color="#fff" fontSize={30} />
-            ) : (
-              <BsFillPlayFill color="#fff" fontSize={30} />
-            )}
+            {playVideo ? <BsPauseFill color="#fff" fontSize={30} /> : <BsFillPlayFill color="#fff" fontSize={30} />}
           </div>
         </div>
       </div>
